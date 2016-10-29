@@ -23,6 +23,9 @@ public class Program {
     }                        
       
     public class VowelChecker
+        //another option for the vowel checker ~ Chris
+        //string[] vowels = { "a", "e", "i", "o", "u" };
+        //return vowels.Where(x => x == c.ToLower()).Count() != 0;
 {
     public char[] vowels = new [] { 'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U' };
 
